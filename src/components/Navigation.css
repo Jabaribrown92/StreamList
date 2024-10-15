@@ -1,0 +1,18 @@
+/* components/Navigation.css */
+.navigation {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navigation ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
